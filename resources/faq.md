@@ -38,7 +38,7 @@
 
 #### Why is gas so expensive? 
 
-- Gas prices fluctuate and can be monitored with tools like [Etherscan](https://ethereumprice.org/gas/) and [Gas Now](https://www.gasnow.org/).
+- Gas prices fluctuate and can be monitored with tools like [Etherscan](https://ethereumprice.org/gas/) or use chrome extensions such as [this.](https://chrome.google.com/webstore/detail/ethereum-gas-price-extens/innfmlnnhfcebjcnfopadflecemoddnp?hl=en) You can read more on what gas is [here](https://ethereum.org/en/developers/docs/gas/).
 
 #### What is yveCRV? 
 
